@@ -1,0 +1,6 @@
+we are writing some text in a text file
+even multiple lines text file
+you can see the outcome in the output file
+קצת עברית
+קצת מספרים ותווים נוספים...
+12/06/14
